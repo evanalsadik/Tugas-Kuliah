@@ -1,11 +1,15 @@
-# Instalasi
-Clone repository ini:
+# Instalation
+1. Clone this repository:
    ```
    git clone https://github.com/evanalsadik/Tugas-Kuliah.git
    ```
-2. Masuk ke dalam direktori proyek
+2. Go into the project directory
 
-3. Instal dependensi dengan `pip`:
+3. Install dependencies with `pip`:
    ```
    pip install -r requirements.txt
+   ```
+4. Run:
+   ```
+   jupyter-lab
    ```
